@@ -2,7 +2,7 @@
 
 <h3>Full stack software Engineer</h3>
 
-![Profile views](https://komarev.com/ghpvc/?username=YourUsername&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=ameer529&color=blue)
 
 <h3>📫 Connect with me</h3>
 
