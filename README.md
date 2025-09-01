@@ -1,3 +1,9 @@
+<h1> Hey This is Ameer Hamza</h1>
+
+<h3>Full stack software Engineer</h3>
+
+<p align="left">![Profile views](https://komarev.com/ghpvc/?username=YourUsername&color=blue)</p>
+
 <h3>📫 Connect with me</h3>
 
 <a href="https://www.linkedin.com/in/ameer-hamza-43415b180" target="_blank">
