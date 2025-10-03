@@ -17,3 +17,10 @@
 <a href="mailto:ameerhamza112281@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
 </a>
+
+<br/>  
+
+ <h3>Github Stats</h3>
+ <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ameer529"&&style=flat-square" align="center" />
+ </div>
