@@ -1,26 +1,14 @@
-<h1> Hey This is Ameer Hamza</h1>
+# Ameer Hamza
 
-<h3>Full stack software Engineer</h3>
+**Senior Software Engineer** building integration-heavy SaaS in Ruby on Rails.
 
-![Profile views](https://komarev.com/ghpvc/?username=ameer529&color=blue)
+I specialize in payment gateways, third-party API integrations, and AI features, with shipped work across fintech (payment processing, blockchain sync) and healthcare (HIPAA-adjacent AI). I build the parts where mistakes are expensive.
 
-<h3>📫 Connect with me</h3>
+### What I work on
+- Payment gateway integrations: Stripe, PayNetworx, Fluid Pay, and card networks
+- Third-party and internal API integrations across multi-tenant SaaS
+- AI features in production, including HIPAA-adjacent use cases
+- Core stack: Ruby on Rails, Hotwire, Sidekiq, PostgreSQL, AWS
 
-<a href="https://www.linkedin.com/in/ameer-hamza-43415b180" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://github.com/ameer529" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<a href="mailto:ameerhamza112281@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<br/>  
-
- <h3>Github Stats</h3>
- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ameer529"&&style=flat-square" align="center" />
- </div>
+### Connect
+[Portfolio](https://ameer-portfolio-eight.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ameerhamzaror/) · [Email](mailto:ameerhamza112281@gmail.com)
